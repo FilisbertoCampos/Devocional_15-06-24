@@ -47,7 +47,7 @@ header > p > a {
 }
 
 header#img01 {
-    background-image: url('../imagens/background003.png');
+    background-image: url('../fotos/biblia.png');
     background-position: center bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -93,12 +93,12 @@ section.imagem {
 }
 
 section#img02 {
-    background-image: url('../imagens/background005.png');
+    background-image: url('../fotos/homem_orando.png');
     background-position: right center;
 }
 
 section#img03 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('../fotos/paisagem.png');
     background-position: right center;
 }
 
